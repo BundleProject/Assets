@@ -1,0 +1,29 @@
+[
+  {
+    "id": "unknown",
+    "name": "Unknown Creator",
+    "icon": "unknown.png"
+  },
+  {
+    "id": "isxander",
+    "name": "isXander",
+    "icon": "isxander.png",
+    "discord": "AJv5ZnNT8q",
+    "mods": [
+      "evergreenhud"
+    ]
+  },
+  {
+    "id": "befell",
+    "name": "Befell",
+    "icon": "befell.png"
+  },
+  {
+    "id": "forgeteam",
+    "name": "The Forge Team",
+    "icon": "forge.png",
+    "mods": [
+      "minecraftforge"
+    ]
+  }
+]

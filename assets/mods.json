@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Optimization",
+    "entries": [
+      {
+        "enabled": true,
+        "id": "optifine",
+        "name": "Optifine",
+        "version": "M5",
+        "description": "A vital addition to any 1.8.9 mod folder that provides unrivalled performance enhancements while providing must-have features.",
+        "download": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
+        "icon": "optifine.png",
+        "creator": "sp614x",
+        "files": [
+          "optionsof.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Render",
+    "entries": [
+      {
+        "enabled": true,
+        "id": "evergreenhud",
+        "name": "EvergreenHUD",
+        "version": "2.0-RC.1.1",
+        "description": "A mod that improves your heads-up-display (HUD) while providing a platform for other mods to create unique elements.",
+        "download": "https://static.isxander.co.uk/mods/evergreenhud/[1.8.9-RC.1.1] EvergreenHUD.jar",
+        "icon": "evergreen.png",
+        "creator": "isxander"
+      },
+    ]
+  },
+  {
+    "name": "Other",
+    "entries": [
+      {
+        "enabled": true,
+        "hidden": true
+        "id": "minecraftforge",
+        "name": "Minecraft Forge",
+        "version": "11.15.1.2318",
+        "icon": "forge.jpg",
+        "creator": "forgeteam",
+        "files": [
+          "options.txt"
+        ]
+      }
+    ]
+  }
+]
