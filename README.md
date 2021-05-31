@@ -15,7 +15,11 @@ Mods Entry Template
       download:String [optional: won't download if empty] (download url - link shorteners are not allowed because the download links could be changed to unverified jars)
       icon:String [optional: will use creator icon] (local repo image path to icon e.g. "isxander.png" is "https://github.com/Forgery-Client/Forgery-Client-Assets/assets/images/isxander.png")
       creator:String [optional: will use unknown creator entry] (id of creator from creators.json)
-      warning:String [optional] (lines of a warning message)
+      links:{
+        name:String [required] (name of link)
+        url:String [required] (url)
+      } [optional] (links of mod)
+      warning:[String] [optional] (lines of a warning message)
       mods:[String] [optional] (required mod ids)
       packs:[String] [optional] (required pack ids)
       files:[String] [optional] (files to download from mcdir folder)
