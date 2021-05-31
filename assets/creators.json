@@ -19,6 +19,23 @@
     "icon": "befell.png"
   },
   {
+    "id": "sp614x",
+    "name": "sp614x",
+    "icon": "optifine.png",
+    "mods": [
+      "optifine"
+    ]
+  },
+  {
+    "id": "sk1er",
+    "name": "Sk1er LLC",
+    "icon": "sk1er.png",
+    "discord": "sk1er",
+    "mods": [
+      "patcher"
+    ]
+  },
+  {
     "id": "forgeteam",
     "name": "The Forge Team",
     "icon": "forge.png",

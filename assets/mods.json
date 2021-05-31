@@ -15,10 +15,26 @@
           {
             "name": "Website",
             "url": "https://optifine.net"
-          }  
+          }
         ],
         "files": [
           "optionsof.txt"
+        ]
+      },
+      {
+        "enabled": true,
+        "id": "patcher",
+        "name": "Patcher",
+        "version": "1.5.1",
+        "description": "Patcher optimizes the entirety of the game in every possible way, having 130+ features and many more unconfigurable bug fixes and performance improvements.",
+        "download": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
+        "icon": "sk1er.png",
+        "creator": "sk1er",
+        "links": [
+          {
+            "name": "Website",
+            "url": "https://sk1er.club/mods/patcher"
+          }
         ]
       }
     ]
@@ -43,8 +59,8 @@
           {
             "name": "Hypixel",
             "url": "https://hypixel.net/threads/3787277/"
-          }  
-        ]  
+          }
+        ]
       }
     ]
   },
@@ -53,7 +69,7 @@
     "entries": [
       {
         "enabled": true,
-        "hidden": true, 
+        "hidden": true,
         "id": "minecraftforge",
         "name": "Minecraft Forge",
         "version": "11.15.1.2318",
