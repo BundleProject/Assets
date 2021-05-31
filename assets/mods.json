@@ -37,7 +37,7 @@
     "entries": [
       {
         "enabled": true,
-        "hidden": true
+        "hidden": true, 
         "id": "minecraftforge",
         "name": "Minecraft Forge",
         "version": "11.15.1.2318",
