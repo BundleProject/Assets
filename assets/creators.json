@@ -16,7 +16,10 @@
   {
     "id": "wyvest",
     "name": "Wyvest",
-    "icon": "wyvest.png"
+    "icon": "wyvest.png",
+    "mods": [
+      "timerhud"
+    ]
   },
   {
     "id": "sp614x",
