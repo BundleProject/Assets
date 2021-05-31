@@ -35,7 +35,17 @@
     "icon": "sk1er.png",
     "discord": "sk1er",
     "mods": [
-      "patcher"
+      "patcher",
+      "scrollabletooltips",
+      "autogg"
+    ]
+  },
+  {
+    "id": "powns",
+    "name": "Powns",
+    "icon": "powns.png",
+    "mods": [
+      "oofmod"
     ]
   },
   {
