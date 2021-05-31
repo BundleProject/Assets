@@ -68,7 +68,7 @@
         "version": "1.0.2",
         "description": "Allows you to set timers in game!",
         "download": "https://github.com/wyvest/timerhud-forge/releases/download/v1.0.2-addons/TimerGreen-evergreen.jar",
-        "creator": "befell",
+        "creator": "wyvest",
         "links": [
           {
             "name": "GitHub",
