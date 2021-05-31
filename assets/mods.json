@@ -40,7 +40,7 @@
     ]
   },
   {
-    "name": "Render",
+    "name": "HUD",
     "entries": [
       {
         "enabled": true,
@@ -61,6 +61,27 @@
             "url": "https://hypixel.net/threads/3787277/"
           }
         ]
+      },
+      {
+        "id": "timerhud",
+        "name": "TimerHUD (Evergreen)",
+        "version": "1.0.2",
+        "description": "Allows you to set timers in game!",
+        "download": "https://github.com/wyvest/timerhud-forge/releases/download/v1.0.2-addons/TimerGreen-evergreen.jar",
+        "creator": "befell",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/wyvest/timerhud-forge/tree/evergreen"
+          },
+          {
+            "name": "Hypixel",
+            "url": "https://hypixel.net/threads/4202127/"
+          }
+        ],
+        "mods": [
+          "evergreenhud"
+        ]
       }
     ]
   },
@@ -73,7 +94,7 @@
         "id": "minecraftforge",
         "name": "Minecraft Forge",
         "version": "11.15.1.2318",
-        "icon": "forge.jpg",
+        "icon": "forge.png",
         "creator": "forgeteam",
         "files": [
           "options.txt"
