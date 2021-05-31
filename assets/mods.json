@@ -14,6 +14,16 @@
         "files": [
           "optionsof.txt"
         ]
+      },
+      {
+        "enabled": true,
+        "id": "patcher",
+        "name": "Patcher",
+        "version": "1.5.1",
+        "description": "Patcher optimizes the entirety of the game in every possible way, having 130+ features and many more unconfigurable bug fixes and performance improvements.",
+        "download": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
+        "icon": "sk1ermonkey.png",
+        "creator": "Sk1er LLC"
       }
     ]
   },
