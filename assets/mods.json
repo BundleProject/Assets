@@ -11,6 +11,12 @@
         "download": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
         "icon": "optifine.png",
         "creator": "sp614x",
+        "links": [
+          {
+            "name": "Website",
+            "url": "https://optifine.net"
+          }  
+        ],
         "files": [
           "optionsof.txt"
         ]
@@ -28,7 +34,17 @@
         "description": "A mod that improves your heads-up-display (HUD) while providing a platform for other mods to create unique elements.",
         "download": "https://static.isxander.co.uk/mods/evergreenhud/[1.8.9-RC.1.1] EvergreenHUD.jar",
         "icon": "evergreen.png",
-        "creator": "isxander"
+        "creator": "isxander",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/isXander/EvergreenHUD"
+          },
+          {
+            "name": "Hypixel",
+            "url": "https://hypixel.net/threads/3787277/"
+          }  
+        ]  
       }
     ]
   },
