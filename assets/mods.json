@@ -14,16 +14,6 @@
         "files": [
           "optionsof.txt"
         ]
-      },
-      {
-        "enabled": true,
-        "id": "patcher",
-        "name": "Patcher",
-        "version": "1.5.1",
-        "description": "Patcher optimizes the entirety of the game in every possible way, having 130+ features and many more unconfigurable bug fixes and performance improvements.",
-        "download": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
-        "icon": "sk1ermonkey.png",
-        "creator": "Sk1er LLC"
       }
     ]
   },
@@ -39,15 +29,7 @@
         "download": "https://static.isxander.co.uk/mods/evergreenhud/[1.8.9-RC.1.1] EvergreenHUD.jar",
         "icon": "evergreen.png",
         "creator": "isxander"
-      }
-    ]
-  },
-  {
-    "name": "QoL",
-    "entries": [
-      {
-        
-      }
+      },
     ]
   },
   {
@@ -55,7 +37,7 @@
     "entries": [
       {
         "enabled": true,
-        "hidden": true, 
+        "hidden": true
         "id": "minecraftforge",
         "name": "Minecraft Forge",
         "version": "11.15.1.2318",
