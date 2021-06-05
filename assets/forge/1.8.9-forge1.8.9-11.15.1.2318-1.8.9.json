@@ -11,7 +11,7 @@
 	"jar": "1.8.9",
 	"libraries": [
 		{
-			"name": "com.github.forgery-client.forgery-utilities:8795d51",
+			"name": "com.github.forgery-client.forgery-utilities:main-SNAPSHOT",
 			"url": "https://jitpack.io/",
 			"serverreq": false,
 			"clientreq": true
