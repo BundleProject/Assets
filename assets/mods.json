@@ -94,7 +94,7 @@
         "version": "1.0.2",
         "description": "Allows you to set timers in game!",
         "download": "https://github.com/wyvest/timerhud-forge/releases/download/v1.0.2-addons/TimerGreen-evergreen.jar",
-        "creator": "wyvest",
+        "creator": "Wyvest",
         "links": [
           {
             "name": "GitHub",
@@ -103,6 +103,27 @@
           {
             "name": "Hypixel",
             "url": "https://hypixel.net/threads/4202127/"
+          }
+        ],
+        "mods": [
+          "evergreenhud"
+        ]
+      },
+      {
+        "id": "hlmevergreen",
+        "name": "HeightLimitMod (Evergreen)",
+        "version": "1.1",
+        "description": "Allows you to check the height limit of bedwars maps in game.",
+        "download": "https://github.com/pinkulu/HeightLimitMod/releases/download/v1.1/HLM-Evergreen-v1.1.jar",
+        "creator": "pinkulu",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/pinkulu/HeightLimitMod/tree/evergreenHUD"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/9sMdBchh7B"
           }
         ],
         "mods": [
