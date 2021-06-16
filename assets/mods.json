@@ -72,9 +72,9 @@
         "enabled": true,
         "id": "evergreenhud",
         "name": "EvergreenHUD",
-        "version": "2.0-RC.1.1",
+        "version": "2.0-RC.3",
         "description": "A mod that improves your heads-up-display (HUD) while providing a platform for other mods to create unique elements.",
-        "download": "https://static.isxander.co.uk/mods/evergreenhud/[1.8.9-RC.1.1]%20EvergreenHUD.jar",
+        "download": "https://github.com/isXander/EvergreenHUD/releases/download/v2.0-RC.3/EvergreenHUD.1.8.9-2.0-RC.3.jar",
         "icon": "evergreen.png",
         "creator": "isxander",
         "links": [
