@@ -146,6 +146,14 @@
     ]
   },
   {
+    "id": "DJtheRedstoner",
+    "name": "DJtheRedstoner",
+    "icon": "djtheredstoner.png",
+    "mods": [
+      "djperspectivemod"
+    ]
+  },
+  {
     "id": "forgeteam",
     "name": "The Forge Team",
     "icon": "forge.png",

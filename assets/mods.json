@@ -382,6 +382,20 @@
         ]
       },
       {
+        "id": "djperspectivemod",
+        "name": "Perspective Mod v4",
+        "version": "4.3",
+        "description": "A Minecraft mod that allows you to view your character in at any angle by modifying camera placement.",
+        "download": "https://cdn.discordapp.com/attachments/767841513568337951/770739687793885244/PerspectiveMod-4.3.jar",
+        "creator": "DJtheRedstoner",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/DJtheRedstoner/PerspectiveModv4"
+          }
+        ]
+      },
+      {
         "id": "quickplay",
         "name": "Quickplay",
         "version": "2.0.5",
