@@ -1,4 +1,4 @@
-# Forgery Assets
+# Bundle Assets
 
 Mods Entry Template
 ```
