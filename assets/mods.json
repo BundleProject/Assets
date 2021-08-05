@@ -25,9 +25,9 @@
         "enabled": true,
         "id": "patcher",
         "name": "Patcher",
-        "version": "1.5.1",
+        "version": "1.6",
         "description": "Patcher optimizes the entirety of the game in every possible way, having 130+ features and many more unconfigurable bug fixes and performance improvements.",
-        "download": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
+        "download": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar",
         "creator": "sk1er",
         "links": [
           {
@@ -62,24 +62,6 @@
             "url": "https://youtu.be/MD3MbU1q5Wg"
           }
         ]
-      },
-      {
-        "id": "hudcaching",
-        "name": "HUDCaching",
-        "version": "1.0-REL",
-        "description": "Limits all HUD FPS to 30, greatly improving performance.",
-        "download": "https://github.com/Moulberry/MCHUDCaching/releases/download/1.8/HUDCaching-1.8-REL-for-MC1.8.9.jar",
-        "creator": "Moulberry",
-        "links": [
-          {
-            "name": "GitHub",
-            "url": "https://github.com/Moulberry/MCHUDCaching"
-          },
-          {
-            "name": "Discord",
-            "url": "https://discord.gg/moulberry"
-          }
-        ]
       }
     ]
   },
@@ -90,9 +72,9 @@
         "enabled": true,
         "id": "evergreenhud",
         "name": "EvergreenHUD",
-        "version": "2.0-RC.3",
+        "version": "2.0.0.94-pre12",
         "description": "A mod that improves your heads-up-display (HUD) while providing a platform for other mods to create unique elements.",
-        "download": "https://github.com/isXander/EvergreenHUD/releases/download/v2.0-RC.3/EvergreenHUD.1.8.9-2.0-RC.3.jar",
+        "download": "https://short.isxander.dev/RqjzS4",
         "icon": "evergreen.png",
         "creator": "isxander",
         "links": [
@@ -122,27 +104,6 @@
             "name": "Discord",
             "url": "https://discord.gg/9sMdBchh7B"
           }
-        ]
-      },
-      {
-        "id": "hlmevergreen",
-        "name": "HeightLimitMod (Evergreen)",
-        "version": "1.2",
-        "description": "Allows you to check the height limit of bedwars maps in game. This is the EvergreenHUD addon.",
-        "download": "https://github.com/pinkulu/HeightLimitMod/releases/download/v1.2/HLM-Evergreen-v1.2.jar",
-        "creator": "pinkulu",
-        "links": [
-          {
-            "name": "GitHub",
-            "url": "https://github.com/pinkulu/HeightLimitMod/tree/evergreenHUD"
-          },
-          {
-            "name": "Discord",
-            "url": "https://discord.gg/9sMdBchh7B"
-          }
-        ],
-        "mods": [
-          "evergreenhud"
         ]
       },
       {
