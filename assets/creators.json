@@ -160,5 +160,13 @@
     "mods": [
       "minecraftforge"
     ]
+  },
+  {
+    "id": "pinkulu",
+    "name": "Pinkulu",
+    "icon": "pinkulu.png",
+    "mods": [
+      "heightlimitmod"
+    ]
   }
 ]
