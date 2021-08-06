@@ -1,3 +1,15 @@
-[
-
-]
+{
+  "patcher": {
+    "metadata": {
+      "display": "Patcher",
+      "creator": "Sk1erLLC"
+    },
+    "platforms": {
+      "forge": {
+        "1.8.9": {
+          "1.6": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar"
+        }
+      }
+    }
+  }
+}
