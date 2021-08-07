@@ -148,5 +148,20 @@
         }
       }
     }
+  },
+  "heightlimitmod": {
+    "metadata": {
+      "display": "Height Limit Mod",
+      "creator": "Pinkulu"
+    },
+    "platforms": {
+      "forge": {
+        "1.8.9": {
+          "2.2": {
+            "url": "https://cdn.modrinth.com/data/KR1w1xyR/versions/2.2.0/HeightLimitMod-2.2.jar"
+          }
+        }
+      }
+    }
   }
 }
