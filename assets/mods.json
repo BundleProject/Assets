@@ -8,7 +8,7 @@
       "forge": {
         "1.8.9": {
           "1.6": {
-            "url": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar"
+            "direct": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar"
           }
         }
       }
@@ -23,7 +23,7 @@
       "forge": {
         "1.8.9": {
           "1.2.0-pre10.1": {
-            "url": "https://github.com/DeDiamondPro/HyCord/releases/download/1.2.0-pre10.1/HyCord-1.2.0-pre10.1.jar"
+            "github": "DeDiamondPro/HyCord"
           }
         }
       }
@@ -38,22 +38,7 @@
       "forge": {
         "1.8.9": {
           "1.0.1": {
-            "url": "https://github.com/Wyvest/Wyvtilities/releases/download/v1.0.1/Wyvtilities-1.0.1.jar"
-          }
-        }
-      }
-    }
-  },
-  "sidebarmod": {
-    "metadata": {
-      "display": "Sidebar Mod Revamp",
-      "creator": "Canelex, Powns"
-    },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "2.0": {
-            "url": "http://download2266.mediafire.com/4ydteufsnmpg/gkzsovw2gjjuw3d/%5B1.8.9%5D+Sidebar+Mod+Revamp.jar"
+            "github": "Wyvest/Wyvtilities"
           }
         }
       }
@@ -68,7 +53,7 @@
       "forge": {
         "1.8.9": {
           "4.1": {
-            "url": "https://static.sk1er.club/repo/mods/autogg/4.1/1.8.9/AutoGG-4.1%20(1.8.9).jar"
+            "direct": "https://static.sk1er.club/repo/mods/autogg/4.1/1.8.9/AutoGG-4.1%20(1.8.9).jar"
           }
         }
       }
@@ -83,7 +68,7 @@
       "forge": {
         "1.8.9": {
           "3.0.1": {
-            "url": "https://dl.autotip.pro/3.0.1"
+            "direct": "https://dl.autotip.pro/3.0.1"
           }
         }
       }
@@ -98,22 +83,7 @@
       "forge": {
         "1.8.9": {
           "1.5": {
-            "url": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar"
-          }
-        }
-      }
-    }
-  },
-  "blockoverlay": {
-    "metadata": {
-      "display": "Block Overlay",
-      "creator": "aycy"
-    },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "4.0.3": {
-            "url": "https://download1005.mediafire.com/j1zxq8j76ptg/p215r5yjgd3jsi7/Block_Overlay_4.0.3.jar"
+            "curseforge": "better-chat"
           }
         }
       }
@@ -128,7 +98,7 @@
       "forge": {
         "1.8.9": {
           "2.0.0.94-pre.12": {
-            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/2.0.0.94-pre.12/EvergreenHUD%20(2.0.0.94-pre.12-rev.542d514).jar"
+            "modrinth": "evergreenhud"
           }
         }
       }
@@ -143,7 +113,7 @@
       "forge": {
         "1.8.9": {
           "1.1": {
-            "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
+            "direct": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
           }
         }
       }
@@ -158,7 +128,7 @@
       "forge": {
         "1.8.9": {
           "2.2": {
-            "url": "https://cdn.modrinth.com/data/KR1w1xyR/versions/2.2.0/HeightLimitMod-2.2.jar"
+            "modrinth": "hlm"
           }
         }
       }
