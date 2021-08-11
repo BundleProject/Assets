@@ -8,7 +8,8 @@
       "forge": {
         "1.8.9": {
           "1.6": {
-            "direct": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar"
+            "source": "direct",
+            "ref": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar"
           }
         }
       }
@@ -23,7 +24,8 @@
       "forge": {
         "1.8.9": {
           "1.2.0-pre10.1": {
-            "github": "DeDiamondPro/HyCord"
+            "source": "github",
+            "ref": "DeDiamondPro/HyCord"
           }
         }
       }
@@ -38,7 +40,8 @@
       "forge": {
         "1.8.9": {
           "1.0.1": {
-            "github": "Wyvest/Wyvtilities"
+            "source": "github",
+            "ref": "Wyvest/Wyvtilities"
           }
         }
       }
@@ -53,7 +56,8 @@
       "forge": {
         "1.8.9": {
           "4.1": {
-            "direct": "https://static.sk1er.club/repo/mods/autogg/4.1/1.8.9/AutoGG-4.1%20(1.8.9).jar"
+            "source": "direct",
+            "ref": "https://static.sk1er.club/repo/mods/autogg/4.1/1.8.9/AutoGG-4.1%20(1.8.9).jar"
           }
         }
       }
@@ -68,7 +72,8 @@
       "forge": {
         "1.8.9": {
           "3.0.1": {
-            "direct": "https://dl.autotip.pro/3.0.1"
+            "source": "direct",
+            "ref": "https://dl.autotip.pro/3.0.1"
           }
         }
       }
@@ -83,7 +88,8 @@
       "forge": {
         "1.8.9": {
           "1.5": {
-            "curseforge": "better-chat"
+            "source": "curseforge",
+            "ref": "better-chat"
           }
         }
       }
@@ -98,7 +104,8 @@
       "forge": {
         "1.8.9": {
           "2.0.0.94-pre.12": {
-            "modrinth": "evergreenhud"
+            "source": "modrinth",
+            "ref": "evergreenhud"
           }
         }
       }
@@ -113,7 +120,8 @@
       "forge": {
         "1.8.9": {
           "1.1": {
-            "direct": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
+            "source": "direct",
+            "ref": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
           }
         }
       }
@@ -128,7 +136,8 @@
       "forge": {
         "1.8.9": {
           "2.2": {
-            "modrinth": "hlm"
+            "source": "modrinth",
+            "ref": "hlm"
           }
         }
       }
