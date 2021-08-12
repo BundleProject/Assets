@@ -89,8 +89,8 @@
         "forge": {
           "1.8.9": {
             "1.5": {
-              "source": "curseforge",
-              "ref": "better-chat"
+              "source": "direct",
+              "ref": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar"
             }
           }
         }
