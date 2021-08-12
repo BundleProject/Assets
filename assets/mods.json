@@ -1,134 +1,145 @@
 {
-  "patcher": {
-    "metadata": {
-      "display": "Patcher",
-      "creator": "Sk1erLLC"
-    },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "1.6": {
-            "direct": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar"
+  "mods": {
+    "patcher": {
+      "metadata": {
+        "display": "Patcher",
+        "creator": "Sk1erLLC"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "1.6": {
+              "source": "direct",
+              "ref": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar"
+            }
           }
         }
       }
-    }
-  },
-  "hycord": {
-    "metadata": {
-      "display": "HyCord",
-      "creator": "DeDiamondPro"
     },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "1.2.0-pre10.1": {
-            "github": "DeDiamondPro/HyCord"
+    "hycord": {
+      "metadata": {
+        "display": "HyCord",
+        "creator": "DeDiamondPro"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "1.2.0-pre10.1": {
+              "source": "github",
+              "ref": "DeDiamondPro/HyCord"
+            }
           }
         }
       }
-    }
-  },
-  "wyvtilities": {
-    "metadata": {
-      "display": "Wyvtilities",
-      "creator": "Wyvest"
     },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "1.0.1": {
-            "github": "Wyvest/Wyvtilities"
+    "wyvtilities": {
+      "metadata": {
+        "display": "Wyvtilities",
+        "creator": "Wyvest"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "1.0.1": {
+              "source": "github",
+              "ref": "Wyvest/Wyvtilities"
+            }
           }
         }
       }
-    }
-  },
-  "autogg": {
-    "metadata": {
-      "display": "AutoGG",
-      "creator": "Sk1erLLC"
     },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "4.1": {
-            "direct": "https://static.sk1er.club/repo/mods/autogg/4.1/1.8.9/AutoGG-4.1%20(1.8.9).jar"
+    "autogg": {
+      "metadata": {
+        "display": "AutoGG",
+        "creator": "Sk1erLLC"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "4.1": {
+              "source": "direct",
+              "ref": "https://static.sk1er.club/repo/mods/autogg/4.1/1.8.9/AutoGG-4.1%20(1.8.9).jar"
+            }
           }
         }
       }
-    }
-  },
-  "autotip": {
-    "metadata": {
-      "display": "Autotip",
-      "creator": "Semx11, Sk1erLLC, 2Pi"
     },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "3.0.1": {
-            "direct": "https://dl.autotip.pro/3.0.1"
+    "autotip": {
+      "metadata": {
+        "display": "Autotip",
+        "creator": "Semx11, Sk1erLLC, 2Pi"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "3.0.1": {
+              "source": "direct",
+              "ref": "https://dl.autotip.pro/3.0.1"
+            }
           }
         }
       }
-    }
-  },
-  "betterchat": {
-    "metadata": {
-      "display": "Better Chat",
-      "creator": "LlamaLad7"
     },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "1.5": {
-            "curseforge": "better-chat"
+    "betterchat": {
+      "metadata": {
+        "display": "Better Chat",
+        "creator": "LlamaLad7"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "1.5": {
+              "source": "direct",
+              "ref": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar"
+            }
           }
         }
       }
-    }
-  },
-  "evergreenhud": {
-    "metadata": {
-      "display": "EvergreenHUD",
-      "creator": "isXander"
     },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "2.0.0.94-pre.12": {
-            "modrinth": "evergreenhud"
+    "evergreenhud": {
+      "metadata": {
+        "display": "EvergreenHUD",
+        "creator": "isXander"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "2.0.0.94-pre.12": {
+              "source": "modrinth",
+              "ref": "evergreenhud"
+            }
           }
         }
       }
-    }
-  },
-  "hypixel_auto_complete": {
-    "metadata": {
-      "display": "Hypixel Autocomplete",
-      "creator": "Sk1erLLC"
     },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "1.1": {
-            "direct": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
+    "hypixel_auto_complete": {
+      "metadata": {
+        "display": "Hypixel Autocomplete",
+        "creator": "Sk1erLLC"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "1.1": {
+              "source": "direct",
+              "ref": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
+            }
           }
         }
       }
-    }
-  },
-  "heightlimitmod": {
-    "metadata": {
-      "display": "Height Limit Mod",
-      "creator": "Pinkulu"
     },
-    "platforms": {
-      "forge": {
-        "1.8.9": {
-          "2.2": {
-            "modrinth": "hlm"
+    "heightlimitmod": {
+      "metadata": {
+        "display": "Height Limit Mod",
+        "creator": "Pinkulu"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "2.2": {
+              "source": "modrinth",
+              "ref": "hlm"
+            }
           }
         }
       }
