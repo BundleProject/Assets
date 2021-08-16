@@ -40,7 +40,7 @@
       "platforms": {
         "forge": {
           "1.8.9": {
-            "1.2.1": {
+            "1.1.2": {
               "source": "github",
               "ref": "Wyvest/Wyvtilities"
             }
