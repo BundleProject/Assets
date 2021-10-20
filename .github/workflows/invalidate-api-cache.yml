@@ -13,4 +13,4 @@ jobs:
 
     steps:
       - name: Send request
-        run: curl -X POST -F 'password=${{ secrets.INTERNAL_API_AUTH }}' https://api.bundleproject.org/v1/internal/invalidate-cache
+        run: "curl -X POST -F 'password=${{ secrets.INTERNAL_API_AUTH }}' https://api.bundleproject.org/v1/internal/invalidate-cache"
