@@ -107,6 +107,23 @@
           }
         }
       }
+    },
+    "gravyrewardclaim": {
+      "_note": "note: DO NOT update reward claim without contacting ThatGravyBoat (as requested)",
+      "metadata": {
+        "display": "Reward Claim",
+        "creator": "ThatGravyBoat"
+      },
+      "platforms": {
+        "forge": {
+          "1.8.9": {
+            "1.0.3": {
+              "source": "github",
+              "ref": "ThatGravyBoat/RewardClaim"
+            }
+          }
+        }
+      }
     }
   }
 }
