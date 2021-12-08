@@ -23,11 +23,15 @@
     "wyvtilities": {
       "metadata": {
         "display": "Wyvtilities",
-        "creator": "Qalcyo"
+        "creator": "W-OVERFLOW"
       },
       "platforms": {
         "forge": {
           "1.8.9": {
+            "2.0.0": {
+              "source": "github",
+              "ref": "W-OVERFLOW/Wyvtils"
+            },
             "1.1.3": {
               "source": "github",
               "ref": "Qalcyo/Rysm"
@@ -117,6 +121,10 @@
       "platforms": {
         "forge": {
           "1.8.9": {
+            "1.0.4": {
+              "source": "github",
+              "ref": "ThatGravyBoat/RewardClaim"
+            },
             "1.0.3": {
               "source": "github",
               "ref": "ThatGravyBoat/RewardClaim"
